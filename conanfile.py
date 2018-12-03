@@ -11,7 +11,7 @@ class QtBinaryConan(ConanFile):
     version = "5.11.2"
     description = "Qt binary distributed by Qt company"
     topics = "conan", "qt"
-    url = "https://gitlab.clarisys.fr/common/conan-qtbinary"
+    url = "https://github.com/zehome/conan-qtbinary"
     homepage = "https://www.qt.io/"
     author = "Laurent Coustet <ed@zehome.com>"
     license = "GPL-3.0-only"
